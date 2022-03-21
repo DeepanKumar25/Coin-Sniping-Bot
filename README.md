@@ -45,3 +45,4 @@ In a seperate terminal run:
 ### 6. Create Uniswap Pool
 `$ truffle exec ./scripts/2_create_pool.js`
 "# Coin-Sniping-Bot" 
+"# Coin-Sniping-Bot" 
